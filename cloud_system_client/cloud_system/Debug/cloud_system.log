@@ -1,0 +1,57 @@
+﻿  cloud_system.cpp
+  main.cpp
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(22): error C2059: 语法错误:“private”
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(24): error C2059: 语法错误:“public”
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(27): error C2550: “ScanDir”: 构造函数初始值设定项列表只能在构造函数定义中使用
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(34): warning C4508: “ScanDir”: 函数应返回一个值；假定“void”返回类型
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(113): error C3927: "->": 非函数声明符后不允许尾随返回类型
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(113): error C3613: “->”后缺少返回类型(假定为“int”)
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(113): error C3646: “push_back”: 未知重写说明符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(113): error C2059: 语法错误:“(”
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(113): error C2238: 意外的标记位于“;”之前
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(114): error C2059: 语法错误:“++”
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(114): error C2238: 意外的标记位于“;”之前
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(116): error C2059: 语法错误:“return”
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(67): warning C4244: “参数”: 从“uint64_t”转换到“const unsigned int”，可能丢失数据
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(106): error C2043: 非法 break
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(117): error C2059: 语法错误:“}”
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(117): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(118): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(118): error C2059: 语法错误:“}”
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(143): error C2059: 语法错误:“return”
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(143): error C2238: 意外的标记位于“;”之前
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(147): error C2628: “DataManage”后面接“bool”是非法的(是否忘记了“;”?)
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(148): error C2065: “_map”: 未声明的标识符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(148): error C3312: 未找到可调用的“begin”函数(针对类型“unknown-type”)
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(148): error C3312: 未找到可调用的“end”函数(针对类型“unknown-type”)
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(149): error C2065: “ss”: 未声明的标识符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(149): error C2065: “mp”: 未声明的标识符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(152): error C2065: “ss”: 未声明的标识符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(152): error C2660: “Util::FileWrite”: 函数不接受 1 个参数
+  f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(81): note: 参见“Util::FileWrite”的声明
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(154): error C2440: “return”: 无法从“bool”转换为“DataManage”
+  f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(154): note: 无构造函数可以接受源类型，或构造函数重载决策不明确
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(156): error C2440: “return”: 无法从“bool”转换为“DataManage”
+  f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(156): note: 无构造函数可以接受源类型，或构造函数重载决策不明确
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(140): error C2065: “line”: 未声明的标识符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(162): error C2065: “_map”: 未声明的标识符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(163): error C3536: “e”: 初始化之前无法使用
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(163): error C2065: “_map”: 未声明的标识符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(174): error C2065: “_map”: 未声明的标识符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(184): error C2065: “_map”: 未声明的标识符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(185): error C2065: “_map”: 未声明的标识符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(185): error C3536: “it”: 初始化之前无法使用
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(194): error C2065: “_map”: 未声明的标识符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(199): error C2065: “_map”: 未声明的标识符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(200): error C3536: “it”: 初始化之前无法使用
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(200): error C2065: “_map”: 未声明的标识符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(204): error C2065: “_map”: 未声明的标识符
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(207): error C2059: 语法错误:“}”
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(207): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(208): error C2059: 语法错误:“}”
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(208): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(212): error C2059: 语法错误:“}”
+f:\vs2017-code\cloud_system\cloud_system\cloud.hpp(212): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  正在生成代码...
